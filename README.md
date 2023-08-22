@@ -1,3 +1,9 @@
+
+<img width="1440" alt="Screenshot 2023-07-14 at 1 59 15 AM" src="https://github.com/mansi-nagpal/Netflix-clone/assets/134012873/f8d18a16-a2cf-49b8-a917-ca8d6da17ff2">
+
+https://github.com/mansi-nagpal/Netflix-clone/assets/134012873/467ce28f-eb26-4c7e-b134-d53a61840b9f
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
